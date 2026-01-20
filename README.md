@@ -1,2 +1,2 @@
 # terp-backend
-backend application to power up the terp enterprise resource platform 
+A backend app built with Firebase Cloud Functions. 
